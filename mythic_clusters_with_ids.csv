@@ -1,0 +1,116 @@
+cluster_id,traits_1,traits_2,guardian_deity_hindu,guardian_deity_greek,guardian_deity_norse,guardian_devi,guardian_devil_hindu,guardian_devil_greek,guardian_devil_norse,mythical_animal
+0,Creative,Visionary,Saraswati,Apollo,Bragi,Gayatri,Rahu,Eris,Loki,Phoenix
+1,Warrior,Leader,Kartikeya,Ares,Thor,Durga,Mahishasura,Typhon,Fenrir,Griffin
+2,Protector,Healer,Dhanvantari,Asclepius,Eir,Parvati,Putana,Empusa,Hel,Unicorn
+3,Rebel,Challenger,Shiva,Prometheus,Odin,Kali,Vritra,Hades,Surtr,Dragon
+4,Peacemaker,Wise,Krishna,Athena,Baldur,Radha,Shambara,Nemesis,Nidhogg,White Owl
+5,Explorer,Adventurer,Hanuman,Hermes,Skadi,Sita,Bakasura,Scylla,Jormungandr,Pegasus
+6,Builder,Stable,Vishwakarma,Hephaestus,Mimir,Annapurna,Tripurasura,Cronus,Thrym,Behemoth
+7,Intellectual,Observer,Brihaspati,Hermes,Forseti,Matangi,Kamsa,Phobos,Mara,Raven
+8,Artist,Dreamer,Chandra,Selene,Nanna,Lalita,Shurpanakha,Medea,Hela,Mermaid
+9,Judge,Disciplinarian,Yama,Themis,Tyr,Dhumavati,Duryodhana,Minos,Fenrir,Cerberus
+10,Inventor,Problem Solver,Ganesha,Daedalus,Sindri,Vagdevi,Shishupala,Tantalus,Fafnir,Griffin
+11,Empath,Caregiver,Chandra,Hestia,Frigg,Kamala,Tataka,Lamiae,Angrboda,Doe
+12,Strategist,Planner,Indra,Zeus,Odin,Usha,Indrajit,Achilles (fallen),Sigurd (dark),Hydra
+13,Mystic,Spiritual,Dakshinamurthy,Orpheus,Völva,Tripura Sundari,Bhasmasura,Circe,Angrboda,Swan
+14,Survivor,Resilient,Vamana,Heracles,Magni,Bhudevi,Kaliyan,Polyphemus,Hræsvelgr,Lion
+15,Diplomatic,Balanced,Shukra,Harmonia,Forseti,Lakshmi,Kali,Discordia,Sköll,Swan
+16,Seeker,Curious,Narada,Odysseus,Baldur,Savitri,Kumbhakarna,Sphinx,Ratatoskr,Hippocamp
+17,Stoic,Enduring,Bhishma,Atlas,Vidar,Shailaputri,Jarasandha,Thanatos,Gullveig,Tortoise
+18,Liberator,Disruptor,Parashurama,Dionysus,Freyr,Tara,Kaliyan,Pentheus,Lævateinn,Hydra
+19,Guardian,Nurturer,Surya,Helios,Sol,Aditi,Tarakasura,Melinoe,Naglfar,White Tiger
+20,Strategic,Authoritative,Indra,Zeus,Tyr,Ratri,Indrajit,Alecto,Jörmungandr,Kraken
+21,Mystic,Enigmatic,Chandradeva,Nyx,Nott,Bagalamukhi,Bhutaraja,Moros,Svartálfar,Night Serpent
+22,Philosopher,Teacher,Vachaspati,Socrates,Mimir,Saraswati,Shukracharya (in fallen form),Chiron (cursed),Hrímgerðr,Snow Owl
+23,Builder,Pragmatic,Vishwakarma,Daedalus,Sindri,Annapurna,Tripurasura,Talos,Thrym,Iron Golem
+24,Altruist,Sacrificial,Harischandra,Prometheus,Baldr,Renuka Devi,Sharabha (if corrupted),Icarus,Fenrir (bound),Silver Stag
+25,Visionary,Revolutionary,Agastya,Orpheus,Loki,Chandraghanta,Kali (uncontrolled),Medusa,Surtr,Black Griffin
+26,Joyful,Optimist,Ganesha,Euphrosyne,Njord,Kamalatmika,Apasmara,Boreas,Skadi (dark aspect),Golden Hare
+27,Ambitious,Driven,Shani,Hercules,Magni,Meenakshi,Narakasura,Ixion,Fafnir,War Stallion
+28,Romantic,Sensual,Kamadeva,Aphrodite,Freya,Rati,Kalanemi,Helen (cursed mythic form),Hyndla,Velvet Panther
+29,Silent,Shadowed,Dhumavati,Hecate,Hel,Mahavidya,Vetala,Achlys,Móði,Ghost Fox
+30,Mediator,Connector,Vayu,Hermes,Heimdall,Aranyani,Trishira,Apate,Garm,Falcon
+31,Caretaker,Guardian,Savitr,Hestia,Frigg,Bhuvaneshwari,Shaktibhadra,Empusa,Sköll,Hearth Wolf
+32,Justice-Seeker,Truthful,Yama,Themis,Tyr,Chandika,Manthara,Nemesis,Nidhogg,Dire Boar
+33,Nomadic,Wanderer,Rishi Vasishta,Pan,Ullr,Ganga,Kalanemi,Circe,Hræsvelgr,Cloud Serpent
+34,Innovator,Experimenter,Brahma,Hephaestus,Sindri,Vagdevi,Trinetra (if corrupted),Icarus,Gullinkambi,Clockwork Beetle
+35,Tactician,Timekeeper,Kalabhairava,Chronos,Verdandi,Mahakali,Shani (harsh aspect),Kairos (chaotic aspect),Gulltoppr,Shadow Lynx
+36,Purifier,Truth-Revealer,Agni,Ananke,Elli,Shodashi,Bhimasura,Lethe,Sköll,Crystal Falcon
+37,Whisperer,Seer,Shukracharya,Cassandra,Völva,Vishalakshi,Mayasura,Melinoë,Angrboda,Ink Raven
+38,Architect,Synthesizer,Prithu,Metis,Modgud,Sita,Trinetra (unbound),Daedalus (twisted),Brokk,Obsidian Elephant
+39,Silent Rebel,Unseen Force,Arjuna,Persephone,Vidar,Bhagavati,Ashwatthama,Echo,Fenrir (lurking aspect),Smoke Jaguar
+40,Astral Thinker,Dream Cartographer,Chandradeva,Hypnos,Nanna,Lalita Tripura,Vritrasura,Oneiroi,Draumur,Cosmic Moth
+41,Storm-Rider,Impulse-Wielder,Varuna,Zephyrus,Thor (wild form),Bhavani,Hayagriva,Thalassa (dark tide),Ægir,Cyclone Horse
+42,Emissary,Shapeweaver,Gandharva,Proteus,Lodurr,Vasundhara,Chandraketu,Selene (in eclipse),Dökkálfar,Mirror Serpent
+43,Guardian of Cycles,Rhythm-Master,Surya Narayan,Hemera,Máni,Rajarajeshwari,Asuras of Kala Chakra,Charon,Ragnar,Sun Chameleon
+44,Beacon,Moral Flame,Yajnavalkya,Apollo (law aspect),Forseti,Devaki,Vena,Tantalus,Sigyn (fallen form),Luminescent Lion
+45,Visionary Healer,Empathic Strategist,Ashwini Kumaras,Chiron,Eir,Ananta,Vasuki (dark form),Pandora (unbound hope),Níðhöggr,Celestial Ibex
+46,Observer of Fate,Detached Planner,Shukra,Atropos,Urd,Vishwamohini,Kalpanasura,Morai (fractured destiny),Rán,Ivory Serpent
+47,Firebrand,Provoker of Change,Pralaya Rudra,Ares (justice-bound),Höðr,Chamunda,Madhu-Kaitabha,Hecatoncheires,Surtur,Volcanic Drake
+48,Gentle Seeker,Soul Listener,Daksha,Eirene,Gefjun,Vasanta,Karkotaka,Algea,Lindworm,Glass Antelope
+49,Magnetizer,Cosmic Tuner,Shakti,Gaia,Jörð,Bhu Devi,Sambara,Phaeton,Hrímgrímnir,Terrastrial Leviathan
+50,Prism Thinker,Spectrum Balancer,Arundhati,Iris,Aurora,Rohini,Sharabha (chaotic form),Echidna,Myling,Rainbow Chimera
+51,Time Weaver,Recursive Mind,Kala Purusha,Janus,Ymir,Bhavani,Kalakeyas,Ananke (entropic aspect),Eikthyrnir (decay form),Hourglass Elk
+52,Alchemist,Boundary Breaker,Rishi Kanva,Hermes Trismegistus,Alvíss,Riddhi,Gajasura,Hephaestus (burned pride),Thjazi,Rune Fox
+53,Harmony Seeker,Peace Architect,Vishnu (Ananta form),Apollo (healing aspect),Baldr (reborn),Sri Devi,Krodhasura,Nemesis (unyielding aspect),Róta,Jade Swan
+54,Myth Scribe,Story Keeper,Veda Vyasa,Mnemosyne,Saga,Shatarupa,Apasmara,Melpomene (twisted version),Glöð,Ink Stallion
+55,Silent Architect,Deep Stabilizer,Vasudeva,Hephaestus (craftmaster),Dvalin,Chintamani,Hiranyaksha,Talos,Hreidmar,Stone Beetle
+56,Pulse Keeper,Emotion Tuner,Chandra (soul flow aspect),Selene,Máni,Shaambhavi,Veerabhadra (uncontained),Alala,Skuld,Rhythm Serpent
+57,Threshold Watcher,Veil Breaker,Ganesha (liminal aspect),Janus (gatekeeper),Vör,Katyayani,Bhanda,Apate,Garmr,Portal Hound
+58,Voice Weaver,Song Sower,Narada,Orpheus,Bragi,Saraswati (music aspect),Kamsa,Sirens,Skirnir,Sonic Dove
+59,Dream Diver,Subconscious Surfer,Swapna Devata,Morpheus,Draumr,Shushumna,Alambusha,Phobetor,Svartálfar,Mist Jaguar
+60,Code Binder,Law Crafter,Manu,Themis,Forseti,Vaishnavi,Dandaka,Minos,Hárbarðr,Runeblade Ox
+61,Faith Walker,Mystery Believer,Bhakti Devi,Aglaea,Frigg (ritual aspect),Anandamayi,Prachanda,Dolus,Svipdagr,Halo Fox
+62,Emotion Alchemist,Light-Fused Healer,Dhanvantari (heart-focused),Epione,Eir (gentle aspect),Kamala,Putana,Hecate (discord channeler),Mara,Sol Moth
+63,Boundary Seeker,Rule Bender,Shiva (Aghori aspect),Dionysus,Loki (flux aspect),Kali Ma,Kalanemi,Lyssa,Surt (trickster form),Spiral Panther
+64,Mirror Soul,Reflexive Mind,Sudarshana,Echo,Sigyn,Manasa Devi,Chhayasura,Narcissus (fragmented),Dökkálfar,Twin Crow
+65,Illusionist,Perspective Shifter,Maya Devi,Aether,Vali,Shatarupa,Indrajit,Deimos,Svefnthorn,Mirage Fox
+66,Bone Collector,Memory Keeper,Bhairava,Mnemosyne,Saga,Dhumavati,Vetala,Achlys,Glöð,Ivory Jackal
+67,Flame Walker,Boundary Burner,Agni,Hestia (wild flame),Logi,Kundalini Devi,Pachakasura,Enyo,Eldjötnar,Inferno Lizard
+68,Echo Listener,Soul Resonator,Akasha Purusha,Echo,Móði,Tvarita,Chhayasura,Morpheus (twisted form),Shadowbindr,Aura Owl
+69,Pulse-Rider,Intuition Spark,Antariksha,Hermes (inner voice),Víðarr,Jyestha,Apasmara,Harpies,Dökkálfr,Nebula Cat
+70,Soul Cartographer,Emotion Mapper,Rishi Vasishta,Odysseus,Ullr,Yogini Dakini,Dushasana,Laestrygonians,Naglfar,Starling Hippogriff
+71,Entropy Dancer,Cycle Hacker,Shiva (Nataraja),Dionysus (rebirth form),Ymir (formless aspect),Tripurasundari,Kumbhakarna,Scylla,Fafnir (decay form),Eclipse Crane
+72,Truth Excavator,Light Miner,Aditya,Apollo (solar lens),Sol,Mahalakshmi (intellect aspect),Kalanemi,Phaeton,Myrkviðr,Quartz Elk
+73,Mind Jumper,Thought Bender,Brahma (flow form),Metis,Mimir,Siddhi,Shishupala,Tantalus,Hræsvelgr,Labyrinth Stag
+74,Still Flame,Passive Storm,Narasimha (silent version),Helios (quiet burn),Thor (stone calm),Sharvani,Mahabali,Antaeus,Eitri (fury form),Volcano Tortoise
+75,Paradox Carrier,Duality Explorer,Ardhanarishvara,Hermaphroditus,Gefjun (split aspect),Chinnamasta,Viprachitti,Janus (divided gaze),Hyndla,Split-Eyed Cobra
+76,Wisdom Seeder,Earth Listener,Bhudevi,Demeter,Jörð,Annapurna,Krodhasura,Eris (scattered seeds),Thrivaldi,Root Ox
+77,Cipher Keeper,Hidden Logic,Vishwakarma (cosmic engineer),Daedalus,Sindri,Vagdevi,Mayasura,Talos,Dökkálfr,Obsidian Spider
+78,Transcender,Limit Pusher,Hanuman (sky-leap form),Icarus (redeemed aspect),Odin (knowledge seeker),Savitri,Shumbha-Nishumbha,Thanatos (denied fate),Hati,Stardust Eagle
+79,Signal Amplifier,Energy Streamer,Surya (radiant core),Hyperion,Sol (blazing wheel),Usha,Svarbhanu,Phaeton,Surtr,Solar Cheetah
+80,Wave Navigator,Current Shaper,Varuna,Poseidon,Ægir,Ganga,Jalandhara,Scylla,Jörmungandr,Tide Serpent
+81,Language Weaver,Symbol Crafter,Saraswati (script creator),Hermes (messenger aspect),Bragi,Matangi,Alambusha,Apate,Myrkviðr,Quill Hawk
+82,Shadow Dancer,Night Explorer,Kalaratri,Nyx,Nott,Bagalamukhi,Vetala (wandering soul),Achlys,Móði,Obsidian Owl
+83,Depth Sifter,Emotional Diver,Chandra (mind flux form),Selene,Máni,Lalita,Karkotaka,Phobetor,Svartálfr,Dream Jellyfish
+84,Unity Harbinger,Bridge Builder,Krishna (synthesis form),Harmonia,Forseti,Radha,Bhasmasura,Nemesis,Sköll,Linked Dragon
+85,Grief Transmuter,Emotional Healer,Yamuna,Eleos,Eir (mourning aspect),Shakti (compassionate form),Chitragupta (rigid aspect),Melpomene,Hel (haunted shade),Sapphire Swan
+86,Celestial Messenger,Cycle Chanter,Garuda,Hermes Psychopompos,Muninn,Vani,Rahu (deceptive omen),Thanatos (messenger form),Gullinkambi (storm call),Twilight Falcon
+87,Mystery Walker,Enigma Spinner,Atri Rishi,Orion,Nanna,Tara (cosmic veil),Vritra (fog aspect),Sphinx,Svartálfar (misleading form),Oblivion Hare
+88,Balance Keeper,Justice Harmonizer,Mitras,Dike,Forseti (restorative form),Mahashakti,Duryodhana (unjust rule),Adikia,Nidhogg (law eater),Crystal Elk
+89,Frequency Tuner,Signal Synth,Vishnu (avataric wave),Apollo Lykeios,Heimdall (sonic aspect),Sundari (subtle current),Trishira,Echo (fragmented),Sköll (resonance warper),Chime Wolf
+90,Tide Tracker,Flow Aligner,Samudra Dev,Oceanus,Njord,Varuni,Jalandhara,Charybdis,Rán (deep drag),Glacial Whale
+91,Wanderer Sage,Inner Cartographer,Rishi Kapila,Pythagoras,Mimir (hermit form),Vishnu Maya,Shambuka,Cacus,Ymir (fractal form),Starline Tortoise
+92,Seed Whisperer,Origin Keeper,Brahma (womb of time),Gaia (primordial aspect),Audhumla,Bhavani,Kashyapa (distorted legacy),Typhon,Gullveig (flame corruption),Root Phoenix
+93,Signal Disruptor,Truth Provoker,Chiranjivi Parashurama,Prometheus (unshackled),Loki (mirror form),Kali (friction mind),Sharabha (chaos channel),Alecto,Surtr (rebellion flame),Chaos Panther
+94,Light Echoer,Memory Radiator,Savitr,Helios (whisper ray),Sol (memory flare),Siddhidatri,Kalanemi,Lethe,Hræsvelgr,Solar Doe
+95,Quantum Thinker,Multi-State Observer,Kartikeya (dual spear aspect),Zeus (multiform wisdom),Odin (rune master),Tripura Sundari,Tarakasura,Eris (probability twist),Hræsvelgr,Quark Phoenix
+96,Mirror Mender,Echo Balancer,Ganga,Echo (healed aspect),Sigyn,Shatarupa,Shambuka,Narcissus,Dökkálfr,Reflective Deer
+97,Dream Cartographer,Vision Aligner,Chandradeva,Hypnos,Draumur,Lalita,Alambusha,Phobetor,Svartálfr,Moon Elk
+98,Legacy Channeler,Ancestral Coder,Rishi Vasishta,Clio (history muse),Saga,Bhudevi,Jarasandha,Lethe,Móði,Runestone Lion
+99,Elemental Sentinel,Cycle Steward,Pancha Bhoota,Gaia (elemental form),Ymir,Chandika,Tripurasura,Typhon,Surt,Prism Golem
+100,Stasis Whisperer,Calm Amplifier,Shiva (meditative form),Eirene,Forseti (peace aspect),Annapurna,Bakasura,Phobos,Thrym,Stillwater Fox
+101,Time Shifter,Chrono Harmonizer,Kala Bhairava,Chronos,Verdandi,Ratri,Kalakeyas,Kairos,Naglfar,Hourglass Crow
+102,Soul Magnet,Energy Weaver,Shakti,Hecate (balance form),Frigg,Kamala,Putana,Empusa,Angrboda,Aura Lynx
+103,Foresight Walker,Risk Mapper,Brahma (vision aspect),Cassandra (truth form),Völva,Vagdevi,Kamsa,Phobos,Mara,Crystal Jackal
+104,Symbol Sage,Pattern Whisperer,Sage Bhrigu,Metis,Mimir,Saraswati (wisdom echo),Shishupala,Tantalus,Fafnir,Glyph Serpent
+105,Emotion Synthesizer,Feelings Harmonizer,Rudra (inner calm form),Aletheia,Gefjun,Vishalakshi,Asuras of Raga,Eris (emotional distortion),Móði,Velvet Falcon
+106,Astral Navigator,Cosmos Mapper,Agnidev (stellar current),Astrea,Máni (wandering light),Tripura Bhairavi,Svarbhanu,Selene (eclipsed),Sköll,Nebula Lynx
+107,Metamorph Channeler,Change Embracer,Shiva (Vikruti aspect),Proteus,Loki (flux form),Bagalamukhi,Rakhtabeej,Lyssa,Thjazi,Molten Moth
+108,Ancestral Embryo,Legacy Echo,Pitrus,Clio,Saga,Devaki,Jalandhara,Lethe,Naglfar,Echo Serpent
+109,Signal Harmonizer,Rhythm Interpreter,Narada,Euterpe,Bragi,Saraswati (sound aspect),Tataka,Sirens,Myrkviðr,Chord Griffin
+110,Threshold Keeper,Transition Guardian,Ganapati,Janus,Heimdallr,Mahakali,Veerabhadra,Phobos,Garm,Gatehound
+111,Mystic Cartographer,Pathfinder Seer,Vashishtha,Orpheus,Völva,Vagdevi,Ashwatthama,Arachne,Svartálfr,Rune Raven
+112,Soul Sculptor,Identity Crafter,Brahma (form giver),Hephaestus,Sindri,Vishwamohini,Tripurasura,Talos,Brokk,Clay Golem
+113,Pulse Decoder,Energy Interpreter,Surya (light frequencies),Apollo (divine code),Sol (radiance form),Ushas,Kalanemi,Hyperion (distorted glare),Sköll,Frequency Wolf
+114,Wisdom Aligner,Truth Synthesizer,Sage Bhrigu,Socrates,Mimir (clarity form),Siddhidatri,Shukracharya (distorted logic),Tantalus,Fafnir (greed bind),Mind Elk
